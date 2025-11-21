@@ -27,7 +27,7 @@ I love transforming ideas into simple, functional projects using Python and web 
 
 ## 🌱 Learning  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,flask" alt="Learning Icons" />
+  <img src="https://skillicons.dev/icons?i=python,react" alt="Learning Icons" />
   <br>
   🌍 Also learning:
   <img src="https://flagcdn.com/w20/es.png" alt="Spanish Flag" title="Spanish" />
