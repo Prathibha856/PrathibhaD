@@ -1,48 +1,49 @@
 <!-- Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Prathibha856&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Prathibha856&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-# 👋 Hi, I'm Prathibha!
+# 👋 Hi, I'm Prathibha
 
-✨ A passionate learner from Bangalore, exploring code, languages, and creativity.
-
----
-
-## 🌱 Currently Learning
-- 🐍 Python  
-- 🇪🇸 Spanish  
-- 🇩🇪 German  
+I'm an enthusiastic learner exploring programming and languages with curiosity and consistency.  
+Currently building simple web projects and improving my Python.
 
 ---
 
-## 💻 Tech Skills
+## 🔧 Tech & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,git,html,css,js" />
 </p>
 
 ---
 
-## 🎯 Goals
-- Build strong foundations in Python & Web Development  
-- Improve Spanish and German skills  
-- Create clean, user-focused websites and AI-based projects  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathibha856&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathibha856&theme=radical" height="165" />
+## 🌱 Learning  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://flagcdn.com/w40/es.png" width="45" title="Spanish" />
+  <img src="https://flagcdn.com/w40/de.png" width="45" title="German" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Prathibha856/Prathibha856/output/github-contribution-grid-snake.svg" alt="snake animation" />
+## 📁 Projects  
+- NasaChallenge  
+- MiniProject (JavaScript)  
+- Stellar Challenge  
+- GlassFund  
+ 
+
+---
+
+## 🔗 Connect  
+<p>
+  <a href="https://www.linkedin.com/in/prathibha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://www.instagram.com/_prathibha_durgaprasad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
 </p>
 
 ---
 
-### 🌟 Always curious. Always learning.
