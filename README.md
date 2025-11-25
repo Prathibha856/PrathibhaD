@@ -56,6 +56,7 @@ I love transforming ideas into simple, functional projects using Python and web 
 
 ---
 
-> “Learning is a journey — I code to grow, and grow through code.” 🚀
+Where creativity meets computation — that’s home.
+Code with logic, debug with patience, build with heart.😊
 
 
