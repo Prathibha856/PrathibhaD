@@ -45,7 +45,6 @@ I love transforming ideas into simple, functional projects using Python and web 
 ### 📂 Featured Projects
 - 🛰️ **NASA Challenge** – A creative exploration project using space data  
 - 💡 **MiniProject (JavaScript)** – Web interactivity with JS  
-- 🌌 **Stellar Challenge** – Astronomy-based web experiment  
 - 🧭 **GlassFund** – A beginner investment simulation project  
 
 ---
